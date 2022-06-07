@@ -5,3 +5,4 @@ console.log("fhfggf");
 function name(params) {
     
 }
+alert("hi ghazal")
